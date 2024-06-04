@@ -1,0 +1,15 @@
+body {
+	background-color: #21251F;
+}
+.title {
+	margin-bottom: 2.5rem;
+	font-size: 60px;
+	text-align: center;
+	color: #F2F4F6;
+}
+.box {
+	margin-bottom: 10px;
+	height: 100px;
+	background-color: #C8F560;
+	border-radius: 16px;
+}
